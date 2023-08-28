@@ -3,8 +3,8 @@
 
 1、 公网访问地址
 
-http://47.111.159.127:8080/kuangkie/hydrogen/index.html
- 用户名：kuangkiesae@qq.com
+http://47.111.159.127:8080/kuangkie/hydrogen/index.html<br>
+ 用户名：kuangkiesae@qq.com<br>
  密  码：kuangkie888
 
  2、视频地址：
