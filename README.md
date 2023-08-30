@@ -4,5 +4,5 @@
 
 1、 公网访问地址：http://47.111.159.127:8080/kuangkie/hydrogen/index.html<br>    	用户名：kuangkiesae@qq.com<br> 	密    码：kuangkie888
 
- 2、视频地址：
+ 2、视频地址：https://www.bilibili.com/video/BV1wu4y1Q7Yv/?vd_source=e76d3093e789db59a1c4efd268355485
 
