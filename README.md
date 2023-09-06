@@ -7,6 +7,6 @@
  2、视频地址 <br>
  视频介绍1：https://www.bilibili.com/video/BV1wu4y1Q7Yv/?vd_source=e76d3093e789db59a1c4efd268355485
  <br>
- 视频介绍2（构建和部署应用到SAE）：https://www.bilibili.com/video/BV1Lp4y1L7vT/?vd_source=e76d3093e789db59a1c4efd268355485
+ 视频介绍2：https://www.bilibili.com/video/BV1Lp4y1L7vT/?vd_source=e76d3093e789db59a1c4efd268355485
  
 
